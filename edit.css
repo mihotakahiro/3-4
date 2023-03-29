@@ -1,0 +1,52 @@
+*{
+ margin: 0;
+ padding: 0; 
+}
+.gray {
+  width: 100vw;
+  height: 100vh;
+	background-color: gray;
+}
+.center {
+  text-align: center;
+}
+.font_white {
+  color:white;
+}
+.horizontal_line{
+  padding: 3px; 
+  background: white;
+} 
+.button_roundness {
+  border-radius: 7px;
+}
+.fontsize_oversized{
+  font-size: 27px;
+}
+.fontsize_medium {
+  font-size: 25px
+}
+.circle {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: white;
+}
+
+
+
+
+/* .fontsize_big {
+  font-size: 30px
+}
+.fontsize_medium {
+  font-size: 20px
+}
+.fontsize_small {
+  font-size: 18px
+}  */
+
+
+
+
