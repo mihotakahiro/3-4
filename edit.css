@@ -23,30 +23,6 @@
 .fontsize_oversized{
   font-size: 27px;
 }
-.fontsize_medium {
-  font-size: 25px
-}
-.circle {
-  display: inline-block;
-  width: 15px;
-  height: 15px;
-  border-radius: 50%;
-  background: white;
-}
-
-
-
-
-/* .fontsize_big {
-  font-size: 30px
-}
-.fontsize_medium {
-  font-size: 20px
-}
-.fontsize_small {
-  font-size: 18px
-}  */
-
 
 
 
